@@ -59,7 +59,7 @@
     "page": "parcel build page/index.pug --out-dir docs --public-url ./"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.12",
+    "@types/jest": "^30.0.0",
     "esbuild": "^0.25.0",
     "jest": "^29.7.0",
     "prettier": "^3.2.5",
